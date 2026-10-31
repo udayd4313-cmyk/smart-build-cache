@@ -1,0 +1,2 @@
+pytest
+# Testing package for smart cache project
